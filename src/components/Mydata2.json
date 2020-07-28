@@ -1,0 +1,14 @@
+[
+    { "symbol": "Break", "time": "0", "value": 0 },
+    { "symbol": "Break", "time": "2000", "value": 0 },
+    { "symbol": "Break", "time": "2005", "value": 3 },
+    { "symbol": "Break", "time": "3000", "value": 3 },
+    { "symbol": "Break", "time": "3050", "value": 0 },
+    { "symbol": "Break", "time": "4000", "value": 0 },
+    { "symbol": "Break", "time": "60000", "value": 0 },
+    { "symbol": "Break", "time": "70000", "value": 0 },
+    { "symbol": "Break", "time": "70005", "value": 3 },
+    { "symbol": "Break", "time": "73000", "value": 3 },
+    { "symbol": "Break", "time": "73005", "value": 0 },
+    { "symbol": "Break", "time": "100000", "value": 0 }
+]

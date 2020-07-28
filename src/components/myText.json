@@ -1,0 +1,14 @@
+[
+    {
+      "sentence": "I am happy with the road condition.",
+      "sentiment": "positive"
+    },
+    {
+      "sentence": "I am really angry. ",
+      "sentiment": "negative"
+    },
+    {
+      "sentence": "I feel just the same.",
+      "sentiment": "neutral"
+    }
+  ]
